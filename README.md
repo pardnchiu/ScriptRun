@@ -1,3 +1,8 @@
+> [!NOTE]
+> 構思日期：2025/02/12<br>
+> 狀態：未實作
+
+
 # ScriptRun - macOS 的 JavaScript 自動化工具
 
 ScriptRun 是一款為 macOS 設計的自動化工具，使用 JavaScript 輕鬆創建各種自動化腳本。
