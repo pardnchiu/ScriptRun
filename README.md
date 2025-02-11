@@ -1,6 +1,8 @@
 > [!NOTE]
 > 構思日期：2025/02/11<br>
-> 狀態：未實作
+> 狀態：未實作<br>
+> 平台：macOS<br>
+> 規劃：免費使用
 
 
 # ScriptRun - macOS 的 JavaScript 自動化工具
